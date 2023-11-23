@@ -6,7 +6,7 @@
 <h3 align="center">A curious Software Developer and Machine Learning Enthusiast</h3>
 
 <h5>
-"Fueling innovation, one commit at a time. Embrace the keyboard, conquer the code and let your README be the canvas where your project's epic tale unfolds. Welcome to the realm of endless possibilities — where bugs are features in disguise, and every pull request is a step toward greatness.
+Fueling innovation, one commit at a time. Embrace the keyboard, conquer the code and let your README be the canvas where your project's epic tale unfolds. Welcome to the realm of endless possibilities — where bugs are features in disguise, and every pull request is a step toward greatness.
 </h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetchoudhari&label=Profile%20views&color=0e75b6&style=flat" alt="jeetchoudhari" /> </p>
