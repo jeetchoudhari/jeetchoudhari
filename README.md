@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h3 align="left">About myself</h3>
+<h3 align="left">About me</h3>
 
 - 🌱 I’m currently learning **Data Analytics & Cloud**
 
