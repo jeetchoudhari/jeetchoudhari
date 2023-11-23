@@ -2,7 +2,16 @@
 
 <h1 align="center"  ><img align="left" height="40" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFodmVqMjBlamFydW5sOTNucHdweGtkY3FidjNmdHQ2bjRsbnd3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif">   Heyy 👋, I'm Jeet Choudhari   <img align="right" height="40" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFodmVqMjBlamFydW5sOTNucHdweGtkY3FidjNmdHQ2bjRsbnd3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif"></h1> 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jeetchoudhari&label=Profile%20Views&color=0e75b6&style=flat" alt="jeetchoudhari" /> </p>
+<h3 align="left">Connect with me: <img src="https://komarev.com/ghpvc/?username=jeetchoudhari&label=Profile%20Views&color=0e75b6&style=flat" alt="jeetchoudhari" align="right"/> </h3>
+
+<p>
+<a href="https://linkedin.com/in/jeet-choudhari" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto: jeetchoudhari99@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/jeetchoudhari99"><img align="center" src="https://img.shields.io/badge/HackerRank%20-%20Darkgreen" height="27" width="90" /></a>
+
+</p>
+
+<p align="right">  </p>
 
 <h3 align="center">A curious Software Developer and Machine Learning Enthusiast</h3>
 
@@ -27,12 +36,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jeet-choudhari" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto: jeetchoudhari99@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/jeetchoudhari99"><img align="center" src="https://img.shields.io/badge/HackerRank%20-%20Darkgreen" height="27" width="90" /></a>
-</p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetchoudhari&show_icons=true&locale=en&layout=compact" alt="jeetchoudhari" /></p>
