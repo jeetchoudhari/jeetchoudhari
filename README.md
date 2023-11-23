@@ -1,6 +1,6 @@
 <hr>
 
-<h1 align="center"><img align="left" height="40" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFodmVqMjBlamFydW5sOTNucHdweGtkY3FidjNmdHQ2bjRsbnd3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif">   Heyy 👋, I'm Jeet Choudhari   <img align="right" height="40" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFodmVqMjBlamFydW5sOTNucHdweGtkY3FidjNmdHQ2bjRsbnd3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif"></h1> 
+<h1 align="center" background="black"><img align="left" height="40" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFodmVqMjBlamFydW5sOTNucHdweGtkY3FidjNmdHQ2bjRsbnd3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif">   Heyy 👋, I'm Jeet Choudhari   <img align="right" height="40" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFodmVqMjBlamFydW5sOTNucHdweGtkY3FidjNmdHQ2bjRsbnd3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif"></h1> 
 
 
 <h3 align="center">A curious Software Developer and Machine Learning Enthusiast</h3>
