@@ -26,7 +26,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **Data Analytics & Cloud**
+- 🌱 I’m currently learning **Generative AI & Cloud**
 
 - Hobbies: Music and Astrology
 
