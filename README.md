@@ -13,7 +13,7 @@
 
 <p align="right">  </p>
 
-<h3 align="center">A curious Software Developer and Machine Learning Enthusiast</h3>
+<h3 align="center">A curious Data Analyst and Machine Learning Enthusiast</h3>
 
 <h5>
 "Fueling innovation, one commit at a time. Embrace the keyboard, conquer the code and let your README be the canvas where your project's epic tale unfolds. Welcome to the realm of endless possibilities — where bugs are features in disguise, and every pull request is a step toward greatness.
@@ -26,7 +26,7 @@
 
 <h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **Generative AI & Cloud**
+- 🌱 I’m currently learning **Generative AI**
 
 - Hobbies: Music and Astrology
 
